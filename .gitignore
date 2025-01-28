@@ -1,0 +1,17 @@
+# YYP Maker files
+___yyp_maker_trash
+
+# GMLive files
+*GMLive*
+*obj_gmlive*
+
+# Stitch files
+.stitch
+stitch.config.json
+tmp
+
+# GameMaker temporary files
+*.resource_order
+*.old
+
+.DS_Store
